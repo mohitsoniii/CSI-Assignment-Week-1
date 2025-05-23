@@ -1,0 +1,14 @@
+{
+  "name": "csi_assignment_week_1",
+  "version": "1.0.0",
+  "description": "This is the assignment of week 1 of Celebal Summer Internship 2025, In this we will learn the create a simple 'Hello World' application and understand the basics of node.js runtime and it's execution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohit Soni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
